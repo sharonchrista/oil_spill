@@ -1,8 +1,5 @@
 # Persian Gulf Oil Spill — SAR Spread Estimation
 
-> **Paper:** *Temporal Mapping of Conflict-Induced Oil Spills in the Persian Gulf Using Sentinel-1 SAR Imagery and Lagrangian Drift Modeling*
-> Target venue: IEEE IGARSS 2026
-
 Reproducible Python + Google Earth Engine pipeline for detecting, quantifying, and forward-projecting conflict-induced oil spills using Sentinel-1 C-band SAR time-series analysis.
 
 ---
