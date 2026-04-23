@@ -145,24 +145,6 @@ Sentinel-1 GRD (132 scenes)
 
 ---
 
-## Citation
-
-If you use this code or data in your research, please cite:
-
-```bibtex
-@inproceedings{author2026persian,
-  title     = {Temporal Mapping of Conflict-Induced Oil Spills in the
-               Persian Gulf Using Sentinel-1 SAR Imagery and
-               Lagrangian Drift Modeling},
-  author    = {Author, A.},
-  booktitle = {IEEE International Geoscience and Remote Sensing Symposium (IGARSS)},
-  year      = {2026},
-  note      = {Under review}
-}
-```
-
----
-
 ## Environment
 
 Tested on:
